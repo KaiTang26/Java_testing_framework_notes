@@ -53,7 +53,7 @@ line73-74: used to setup the mock object
 
 line 76: initialize objectForOutterClass with Mocked object
 
-line 78: call outterMathod, which will invoke innerMathoud
+line 78: call outterMathod, which will invoke innerMathod
 
 line 80: verify invoking of innerMathod
 
