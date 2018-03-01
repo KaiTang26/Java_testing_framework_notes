@@ -1,8 +1,8 @@
-# Java TDD manual: 
+# Java TDD manual for Eclipse: 
 ## Goal: setting up Junit 
 
 1.	Right click project name, click on Build Path -> Configure Build Path
-
+(https://github.com/KaiTang26/Java_testing_framework_notes/blob/master/documents/1.png)
 
 2.	Add Junit Libraries 
 
