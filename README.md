@@ -1,4 +1,4 @@
-###Java TDD manual: 
+#Java TDD manual: 
 Goal: setting up Junit 
 
 1.	Right click project name, click on Build Path -> Configure Build Path
