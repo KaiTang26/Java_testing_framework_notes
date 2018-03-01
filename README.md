@@ -34,7 +34,7 @@
 
 1: Complete step 1 to 2 of setting up Junit
 
-2: Download .jar file >>>mockito-all-x.x.x.jar
+2: Download .jar file >>> **mockito-all-x.x.x.jar**
 
 3: use Configure Build Path to Add External JARs
 ![](https://github.com/KaiTang26/Java_testing_framework_notes/blob/master/documents/5.png)
