@@ -1,5 +1,5 @@
 # Java TDD manual: 
-Goal: setting up Junit 
+## Goal: setting up Junit 
 
 1.	Right click project name, click on Build Path -> Configure Build Path
 
@@ -25,7 +25,7 @@ Assert.assertNotNull()
 7.	Running test: 
 
 
-Goal: setting up Mockito
+## Goal: setting up Mockito
 
 1: Complete step 1 to 2 of setting up Junit
 
